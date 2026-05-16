@@ -1,0 +1,21 @@
+Tiêu chí	Giá trị
+Sensor	1/3" Progressive Scan CMOS
+Min. illumination	0.03 lux @F1.6, AGC ON; 0 lux with IR
+Focal length	2.8 mm lens @F1.6
+Focus	Fixed
+Angle of view	"Horizontal FOV 98º 
+Vertical FOV 53º  
+Horizontal FOV 116º"
+Shutter time	1/3 s to 1/100,000 s
+Day/Night	IR Cut Filter (Auto switch)
+Wide Dynamic Range	Digital WDR
+Image usability	BLC, HLC, 3D DNR
+IR Distance	20 - 30 m
+DORI distances	"Detect: 56.52 m
+Observe: 22.61 m
+ Recognize: 11.30 m 
+Identify: 5.65 m"
+Max. resolution	2560 x 1440
+Protocols	UDP, IPv4, IPv6, DHCP, NTP, RTSP, RTP, RTCP, PPPoE, DDNS, SMTP, FTP, 802.1x, SNMP, UPnP, HTTP, HTTPs, QoS
+	IP67
+	IK10
